@@ -90,8 +90,8 @@ button{
     float: left;
 display: inline-block;
 vertical-align: top;
- width: 20%;
- margin: 10px;
+ width: 40%;
+ margin: 4px;
 }
 .nav a{
     display: inline-block;
